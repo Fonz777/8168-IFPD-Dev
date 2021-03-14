@@ -1,5 +1,5 @@
 # 8168-IFPD-Dev
-Produce a program that automates the design of Instrument Flight Procedures as described in ICAO Doc PANS OPS 8168 Vol 2. The output will allow the manual (initially) entry of data which the program will then use to make the caluclations as descirbed in the document, show the results of calculations and output an AutoCAD file that shows the visual representation of the design. The output should also be overlaid on a Google Earth map or equivalent for demonstration purposes.
+Produce a program that automates the design of Instrument Flight Procedures as described in ICAO Doc PANS OPS 8168 Vol 2. The output will allow the manual (initially) entry of data which the program will then use to make the caluclations as descirbed in the document, show the results of calculations and output an AutoCAD file that shows the plan view of the design. The output should also be overlaid on a Google Earth map or equivalent for demonstration purposes.
 
 Commercial aircraft departing and arriving airports will generally fly a published procedure based on a form of navigation aid such as GPS or a ground based beacon (VOR/NDB/ILS).
 
